@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish kumar singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="logo" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2gxCpAdU_RWJEP07m9gsi8&ust=1698834826238000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCRxIWLoIIDFQAAAAAdAAAAABAR">
+<img align="right" alt="logo" width="400" src="https://th.bing.com/th/id/OIP.kbUTNQ5Pw-esY0-8yjb8JQHaEK?pid=ImgDet&rs=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish20012&label=Profile%20views&color=0e75b6&style=flat" alt="manish20012" /> </p>
 
