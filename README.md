@@ -1,4 +1,3 @@
-<img align="right" alt="logo" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 <h1 align="center">Hi 👋, I'm Manish kumar singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
